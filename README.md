@@ -1,8 +1,8 @@
-Hello Wolrd
+# Hello World
 Hello World Website
 
-Author
-Yazmin Farfan email:yazminfarfan@lewisu.edu
+## Author
+Yazmin Farfan [email:yazminfarfan@lewisu.edu](mailto:yazminfarfan@lewisu.edu)
 
-Credits
-Eric Pogue, ChatGPT, and GitHub.
+## Credits
+Eric Pogue, ChatGPT, W3Schools and GitHub.
